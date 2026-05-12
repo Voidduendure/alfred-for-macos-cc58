@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS script with Alfred for macOS elite Script - duplicate-finder and startup-manager. Featuring duplicate-finder and startup-manager, it's the best
 
 
 
